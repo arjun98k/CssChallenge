@@ -6,3 +6,8 @@
 #red{
     background-color: blue;
 }
+
+#blue{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 127, 202);
+}
